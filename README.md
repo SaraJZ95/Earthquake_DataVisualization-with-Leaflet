@@ -1,1 +1,2 @@
 # leaflet-challenge
+This Leaflet map visualizes earthquake data from the past 30 days around the world, specifically for magnitudes 4.5 and above. Earthquake data is sourced from the USGS GeoJSON feed at USGS Earthquake Feed. The map plots each earthquake with a color-coded marker representing depth, where darker colors indicate greater depths. A legend is provided to interpret the depth range associated with each color.
